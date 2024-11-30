@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd13ea52f8dd63b48b10f9056ebd334a, type: 3}
+  m_Name: Fan
+  m_EditorClassIdentifier: 
+  type: 2
+  partObject: {fileID: 945109728858299745, guid: 3b5526d48c420e34db3023a253c11118, type: 3}
+  buildVisuals: {fileID: 945109728858299745, guid: 3cf9bd6ea5e9e334c8822fd0c47ec16f, type: 3}
+  hasButton: 1
+  isToggle: 0
+  buttonSprite: {fileID: 21300000, guid: 2f1610b5a141e36479c0a2bc7d0bee2e, type: 3}
+  toggleSprite: {fileID: 0}
+  iconColor: {r: 0.427451, g: 0.46274513, b: 0.8862746, a: 1}
+  shadowColor: {r: 0.50980395, g: 0.54901963, b: 0.9607844, a: 1}
+  additionalColor: {r: 0, g: 0, b: 0, a: 0}
+  batteryUsage: 0.1
+  isPerSecond: 1

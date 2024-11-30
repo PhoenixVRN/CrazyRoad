@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd13ea52f8dd63b48b10f9056ebd334a, type: 3}
+  m_Name: Spiked Wheel
+  m_EditorClassIdentifier: 
+  type: 1
+  partObject: {fileID: 2615678907916751125, guid: 330d9e3803e511046b6d1316de1c7c6b, type: 3}
+  buildVisuals: {fileID: 2615678907916751125, guid: 30c01980e81a73742b9bedb949475a93, type: 3}
+  hasButton: 1
+  isToggle: 1
+  buttonSprite: {fileID: 21300000, guid: 026d36ce59fbbcd4dac6d36a90194c8c, type: 3}
+  toggleSprite: {fileID: 21300000, guid: e687c22947643be44acde5082e23a765, type: 3}
+  iconColor: {r: 0.30980393, g: 0.4784314, b: 0.8588236, a: 1}
+  shadowColor: {r: 0.43921572, g: 0.60784316, b: 0.9960785, a: 1}
+  additionalColor: {r: 0.8431373, g: 0.89019614, b: 0.9960785, a: 1}
+  batteryUsage: 0.05
+  isPerSecond: 1

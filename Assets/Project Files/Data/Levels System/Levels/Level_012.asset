@@ -1,0 +1,302 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 925edf1976247f14f8a2b627fe6b95f2, type: 3}
+  m_Name: Level_012
+  m_EditorClassIdentifier: 
+  bodyPart: {fileID: 11400000, guid: e75af8e8238f0e94fa12119128218dd5, type: 2}
+  parts:
+  - part: {fileID: 11400000, guid: 29299b25f1b1b154eb9d3a82389166a8, type: 2}
+    alowedSlots: 0000000001000000
+    isPlacedAlready: 0
+    slot: 0
+  - part: {fileID: 11400000, guid: 29299b25f1b1b154eb9d3a82389166a8, type: 2}
+    alowedSlots: 0000000001000000
+    isPlacedAlready: 0
+    slot: 1
+  - part: {fileID: 11400000, guid: 56ee2de05e2954e4eaeb8596b27deaf4, type: 2}
+    alowedSlots: 02000000
+    isPlacedAlready: 0
+    slot: 2
+  itemSaves:
+  - prop: 2
+    position: {x: 127.53, y: -0.953, z: 0.36}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 30
+    position: {x: 115.58, y: 5.41, z: 2.54}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 32
+    position: {x: 101.72, y: 2.89, z: 2.5}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 31
+    position: {x: 88.01, y: 0.14, z: 2.51}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 3
+    position: {x: 69.97, y: -0.55, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 10
+    position: {x: 128.46, y: 5.92, z: 4.38}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 17
+    position: {x: 75.68, y: -0.31, z: 4.5}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 40
+    position: {x: 124.83, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 15
+    position: {x: 14.2, y: 0, z: 0.71}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 10
+    position: {x: -6.3, y: 3.8340654, z: 4.38}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 14
+    position: {x: 53.3, y: 4.43, z: 4.27}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 11
+    position: {x: 33.19, y: 7.78, z: 3.99}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 16
+    position: {x: 63.52, y: 3.26, z: 4.08}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 17
+    position: {x: 25.27, y: 0, z: 4.5}
+    rotation: {x: -0, y: 0, z: 0}
+  - prop: 4
+    position: {x: 146.9, y: 1.62, z: -1.21}
+    rotation: {x: -0, y: 0, z: 0}
+  - prop: 31
+    position: {x: 42.99, y: 4.38, z: 2.59}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 21
+    position: {x: 4.334, y: -4.038, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 21
+    position: {x: 13.13, y: -4.53, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 62.53, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 64.42, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 66.44, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 68.38, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 70.34, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 72.37, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 74.31, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  - prop: 20
+    position: {x: 76.49, y: -0.59, z: -1}
+    rotation: {x: 0, y: 0, z: 0}
+  finishPosition: {x: 126.5, y: -0.2, z: 0}
+  activeSlots: 000000000100000002000000
+  cardboards:
+  - points:
+    - position: {x: 0, y: 0, z: 0}
+      leftKey: {x: 0, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 0
+    - position: {x: 5, y: 0.9, z: 0}
+      leftKey: {x: -1, y: -0.39999998, z: 0}
+      rightKey: {x: 1.8000002, y: 0.6, z: 0}
+      battery: 1
+    - position: {x: 9.5, y: 3.6, z: 0}
+      leftKey: {x: -1, y: -0.89999986, z: 0}
+      rightKey: {x: 1.5, y: 1.3000002, z: 0}
+      battery: 0
+    - position: {x: 12.2, y: 6.2, z: 0}
+      leftKey: {x: -0.6999998, y: -0.6999998, z: 0}
+      rightKey: {x: 2.3000002, y: 1.9000006, z: 0}
+      battery: 1
+    - position: {x: 19.4, y: 7.3, z: 0}
+      leftKey: {x: -1.3999996, y: -0.20000029, z: 0}
+      rightKey: {x: 0, y: 0, z: 0}
+      battery: 0
+    position: {x: 40, y: -7.8, z: -1}
+    startTape: 1
+    endTape: 1
+  - points:
+    - position: {x: 0, y: 0, z: 0}
+      leftKey: {x: 0, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 0
+    - position: {x: 5, y: 0, z: 0}
+      leftKey: {x: -1, y: 0, z: 0}
+      rightKey: {x: 2.5, y: 0, z: 0}
+      battery: 1
+    - position: {x: 10, y: 5, z: 0}
+      leftKey: {x: 0.0000009536743, y: -2.5, z: 0}
+      rightKey: {x: 0, y: 2.5, z: 0}
+      battery: 1
+    - position: {x: 5, y: 10, z: 0}
+      leftKey: {x: 2.5, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 0, y: 9, z: 0}
+      leftKey: {x: 2, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 1
+    - position: {x: -5, y: 11, z: 0}
+      leftKey: {x: 2, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -10, y: 9, z: 0}
+      leftKey: {x: 2, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 1
+    - position: {x: -15, y: 11, z: 0}
+      leftKey: {x: 2, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -20, y: 9, z: 0}
+      leftKey: {x: 2, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -25, y: 10, z: 0}
+      leftKey: {x: 1.8999996, y: 0, z: 0}
+      rightKey: {x: -2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -30, y: 5, z: 0}
+      leftKey: {x: 0, y: 2.5, z: 0}
+      rightKey: {x: 0, y: -2, z: 0}
+      battery: 0
+    - position: {x: -30, y: -0, z: 0}
+      leftKey: {x: 0.099998474, y: 2, z: 0}
+      rightKey: {x: 0, y: -2.5, z: 0}
+      battery: 1
+    - position: {x: -25, y: -5, z: 0}
+      leftKey: {x: -2.5, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -17.5, y: -5, z: 0}
+      leftKey: {x: -1, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 1
+    - position: {x: -12, y: -5, z: -1}
+      leftKey: {x: -1, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 0
+    - position: {x: -7, y: -6, z: -1}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: -2, y: -4, z: -1}
+      leftKey: {x: -1.9999998, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 3, y: -5, z: -1}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 8, y: -4, z: -1}
+      leftKey: {x: -2, y: -1, z: 0}
+      rightKey: {x: 0, y: 0, z: 0}
+      battery: 0
+    position: {x: 6.7, y: 0, z: 0}
+    startTape: 1
+    endTape: 0
+  - points:
+    - position: {x: 0, y: 0, z: 0}
+      leftKey: {x: 0, y: 0, z: 0}
+      rightKey: {x: 2.5, y: 0, z: 0}
+      battery: 0
+    - position: {x: 4.8, y: -1.9, z: 0}
+      leftKey: {x: -2.5000002, y: 0, z: 0}
+      rightKey: {x: 1.6000013, y: -0.00000011920929, z: 0}
+      battery: 0
+    - position: {x: 9, y: -3.6999998, z: 0}
+      leftKey: {x: -1.5, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 0
+    - position: {x: 14, y: -3.5, z: 0}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 19, y: -4.5, z: 0}
+      leftKey: {x: -2, y: 0, z: -0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 24, y: -2.5, z: 0}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 1
+    - position: {x: 29, y: -3, z: 0}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 1
+    - position: {x: 34, y: -1, z: 0.2}
+      leftKey: {x: -2, y: 0, z: -0.000000014901161}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 39, y: -1.5, z: 0.5}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 0
+    - position: {x: 44, y: 0.5, z: 0.8}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 1
+    - position: {x: 49, y: 0, z: 1}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 2, y: 0, z: 0}
+      battery: 1
+    - position: {x: 54, y: 2, z: 1}
+      leftKey: {x: -2, y: 0, z: 0}
+      rightKey: {x: 0, y: 0, z: 0}
+      battery: 0
+    position: {x: 70, y: -2, z: -1}
+    startTape: 0
+    endTape: 1
+  - points:
+    - position: {x: 0, y: 0, z: 0}
+      leftKey: {x: 0, y: 0, z: 0}
+      rightKey: {x: 3.3, y: 0.2, z: 0}
+      battery: 0
+    - position: {x: 9.5, y: 2.6, z: 0}
+      leftKey: {x: -3.3000002, y: -1.6999999, z: 0}
+      rightKey: {x: 2.3000002, y: 1.2, z: 0}
+      battery: 1
+    - position: {x: 16.6, y: 6.8, z: 0}
+      leftKey: {x: -2.8000002, y: -1.8000002, z: 0}
+      rightKey: {x: 0, y: 0, z: 0}
+      battery: 0
+    position: {x: 10, y: -8.3, z: -1}
+    startTape: 1
+    endTape: 0
+  - points:
+    - position: {x: 0, y: 0, z: 0}
+      leftKey: {x: 0, y: 0, z: 0}
+      rightKey: {x: 1, y: 0, z: 0}
+      battery: 0
+    - position: {x: 4.7, y: 0.7, z: 0}
+      leftKey: {x: -0.6999998, y: -0.19999999, z: 0}
+      rightKey: {x: 2.2000003, y: 0.50000006, z: 0}
+      battery: 1
+    - position: {x: 10.3, y: 2.3, z: 0}
+      leftKey: {x: -1.3000002, y: -0.5999999, z: 0}
+      rightKey: {x: 2.6999998, y: 1.3, z: 0}
+      battery: 0
+    - position: {x: 19.3, y: 7.4, z: 0}
+      leftKey: {x: -2.7999992, y: -2.4, z: 0}
+      rightKey: {x: 0, y: 0, z: 0}
+      battery: 1
+    position: {x: 25, y: -7.9, z: -1}
+    startTape: 1
+    endTape: 0

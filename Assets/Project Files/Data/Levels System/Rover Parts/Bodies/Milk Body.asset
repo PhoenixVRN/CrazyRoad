@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd13ea52f8dd63b48b10f9056ebd334a, type: 3}
+  m_Name: Milk Body
+  m_EditorClassIdentifier: 
+  type: 0
+  partObject: {fileID: 286638946415238250, guid: 034dcec99328b7a4e85385ada562a14a, type: 3}
+  buildVisuals: {fileID: 286638946415238250, guid: 034dcec99328b7a4e85385ada562a14a, type: 3}
+  hasButton: 0
+  isToggle: 0
+  buttonSprite: {fileID: 0}
+  toggleSprite: {fileID: 0}

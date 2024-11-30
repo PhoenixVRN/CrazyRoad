@@ -1,0 +1,16 @@
+v1.3.0
+Skins structure improved
+Added IAP store
+Core Update
+
+v1.2.2
+Unity 2022 support
+Core update
+
+v1.1.2
+Unity 2021 support
+Core update
+Level editor improved
+
+v1.0
+Release

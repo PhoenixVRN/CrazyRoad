@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92c24cc2a55c24428644448e5aa19f3, type: 3}
+  m_Name: Level Database
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: 71fa1ab04fd2bd84f8b1ac5b21d3dd62, type: 2}
+  - {fileID: 11400000, guid: 11268825155c45f45a8e1274aa8142a8, type: 2}
+  - {fileID: 11400000, guid: 29d2125fe100d9a438d279660a0c7537, type: 2}
+  - {fileID: 11400000, guid: 01dbb5c65d41db7488494385d44d0d73, type: 2}
+  - {fileID: 11400000, guid: e7f265995b7b80645bbb3fb1770ff2db, type: 2}
+  - {fileID: 11400000, guid: dced401d4ad3fdf4380781e019de3899, type: 2}
+  - {fileID: 11400000, guid: 67243ee42981423479c227905062a3f1, type: 2}
+  - {fileID: 11400000, guid: 68ad0ebdcde78974cbd2e15c69032b39, type: 2}
+  - {fileID: 11400000, guid: 37ef6bdaf74c9ae4b98034021ef4b5bf, type: 2}
+  - {fileID: 11400000, guid: cf05bfe1e12b6084c803aba92ff682f2, type: 2}
+  - {fileID: 11400000, guid: a16074032e10b1447867b290a6479db5, type: 2}
+  - {fileID: 11400000, guid: 4f1392ff31608e7439fa88d1aa5c1a88, type: 2}
+  - {fileID: 11400000, guid: 41d0a9ae6b8265341a6bbb7c158c3f08, type: 2}
+  - {fileID: 11400000, guid: 612d662b532aea643873ab69f0b178ea, type: 2}
+  - {fileID: 11400000, guid: 87250a37628bff7428a4d22b728a0a95, type: 2}
+  roverParts:
+  - {fileID: 11400000, guid: 1afdc156d871f70459a43b650276e570, type: 2}
+  - {fileID: 11400000, guid: 1e15d838d36ba424b9778bbc58ba3930, type: 2}
+  - {fileID: 11400000, guid: e75af8e8238f0e94fa12119128218dd5, type: 2}
+  - {fileID: 11400000, guid: 1d7792fd364b8da4e94091b6e9acd7c2, type: 2}
+  - {fileID: 11400000, guid: 29299b25f1b1b154eb9d3a82389166a8, type: 2}
+  - {fileID: 11400000, guid: 56ee2de05e2954e4eaeb8596b27deaf4, type: 2}
+  - {fileID: 11400000, guid: c6a5b48ac5b1f6d408b8a59cb5305cab, type: 2}
+  - {fileID: 11400000, guid: eed21e21e1e771546ab11ac11fcee005, type: 2}
+  prop:
+  - type: 0
+    prefab: {fileID: 7533860418691854519, guid: 0e06a35b0a9c75f49adbfc05a354724d, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 2.95}
+  - type: 1
+    prefab: {fileID: 6547994741603744176, guid: 8b27feea6aaffc1498d4b2245dce7016, type: 3}
+    spawnPosition: {x: 0, y: 0, z: -0.8}
+  - type: 2
+    prefab: {fileID: 8290846511829851081, guid: 7378b343e4c792b4b9a97aa2d36b59f3, type: 3}
+    spawnPosition: {x: 0, y: 0, z: -0.05}
+  - type: 3
+    prefab: {fileID: 504485626192572246, guid: 11c671b95e729e445999687b8920b58d, type: 3}
+    spawnPosition: {x: 0, y: 0, z: -1}
+  - type: 4
+    prefab: {fileID: 8878042018837864207, guid: 7bd102878c2484a48b8d4b2829fa70af, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0.98}
+  - type: 10
+    prefab: {fileID: 2544648593639072328, guid: 27c2ccb66f8aee543a93a6836ad2b1f7, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 4.38}
+  - type: 11
+    prefab: {fileID: 8347137390477322094, guid: 651da4e9e7d9d13489e9cc3670647095, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 3.99}
+  - type: 12
+    prefab: {fileID: 7126341402135370654, guid: 0d40e043de5039b4f8ec26ac4055d78d, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 1.87}
+  - type: 13
+    prefab: {fileID: 7009559837534524346, guid: 217c4e5795a3d3c4f8d2815402ba5810, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 1.65}
+  - type: 14
+    prefab: {fileID: 792617315528170008, guid: 6dff1e3b5c80bbc4ab9dc01c88c75746, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 4.3}
+  - type: 15
+    prefab: {fileID: 6778447248962194935, guid: 183a9a80c76bc8d41be763527cfe2765, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0.7}
+  - type: 16
+    prefab: {fileID: 4180221870512970960, guid: 78f52174393669f4eb6b0a08a5dcff00, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 4.06}
+  - type: 17
+    prefab: {fileID: 8241841685319354819, guid: a782f8aea1daf2b43b3832e94b798abd, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 4.63}
+  - type: 20
+    prefab: {fileID: 589047285854655884, guid: da8358fdd627854428816a798bce4e23, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - type: 21
+    prefab: {fileID: 697805796509036334, guid: 01a713e9412e677409b57a7d4359ee80, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 2.5}
+  - type: 30
+    prefab: {fileID: 4916742385972455473, guid: a64fbb33b872c3f4ebc5683260dc9aea, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 2.54}
+  - type: 31
+    prefab: {fileID: 7087428880407730440, guid: be03748bc4b67d84aa1093c626f3f336, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 2.51}
+  - type: 32
+    prefab: {fileID: 1201620664046536445, guid: b169ef641fd9e8c42b46c772c8635214, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 2.5}
+  - type: 40
+    prefab: {fileID: 6886300439332160493, guid: ce954adba000a914082b734cb56f483c, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0}
+  slotNames:
+  - Right wheel
+  - Left wheel
+  - Rover back
+  - Rover top
+  allowedSlotsArray:
+  - slots: 
+  - slots: 
+  - slots: 
+  - slots: 0000000001000000
+  - slots: 0000000001000000
+  - slots: 02000000
+  - slots: 03000000
+  - slots: 03000000

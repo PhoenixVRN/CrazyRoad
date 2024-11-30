@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934354c098fbb8842a76c5a6a425e841, type: 3}
+  m_Name: Environment Skins Database
+  m_EditorClassIdentifier: 
+  skins:
+  - id: 70afa717-f3ba-4dc4-9865-2747bc37f137
+    previewSprite: {fileID: 21300000, guid: c437cead450f252468b99258f3020b62, type: 3}
+    material: {fileID: 2100000, guid: 3625dcf6884062046a42bc2c65d0dd3d, type: 2}
+  - id: adc01986-f90f-4375-8a09-ef237747cc78
+    previewSprite: {fileID: 21300000, guid: 1f800414b7ce2554b8499b66a692be81, type: 3}
+    material: {fileID: 2100000, guid: 6c2d22752c9751745a31be6336c23cd7, type: 2}
+  - id: 3bcce40c-ee69-459a-99a1-35d4bc1b66af
+    previewSprite: {fileID: 21300000, guid: d0ad766ba965d7a45a6148b04de9b6fc, type: 3}
+    material: {fileID: 2100000, guid: edadd9d593bce2e43b726ee39ceefe41, type: 2}
+  - id: f8dd736a-a14a-48da-bc57-8c7fb7e5cf2f
+    previewSprite: {fileID: 21300000, guid: 7ba8c14e870ee464e8e309abac873b9c, type: 3}
+    material: {fileID: 2100000, guid: 0d937da8220155b498cbcfc0320a1aed, type: 2}
